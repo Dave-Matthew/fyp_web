@@ -16,6 +16,8 @@ It should carry the following information:
   complete (at the end) that by browsing the website, one should have
   an idea what the project is about, and what has been achieved.
 
+<br/><br/>
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
